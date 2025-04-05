@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Unix and I'm a security researcher</h1>
+<h1 align="center">Hi 👋! My name is Vermil and I'm a security researcher</h1>
 
 ###
 
@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/unixpup/unixpup/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vermillionpaws/vermillionpaws/output/snake.svg" alt="Snake animation" />
 
 ###
